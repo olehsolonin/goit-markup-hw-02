@@ -130,19 +130,11 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.50;
 letter-spacing: 0.04em;
-border-radius: 4px;
 background:#404BBF;
-/* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15); */
 }
 
 .priorities {
 }
-
-/* .visually-hidden {
-	white-space: nowrap;
-	clip-path: inset(100%);
-	overflow: hidden;
-} */
 
 .priorities-list {
 }
@@ -187,16 +179,6 @@ background-color: #FFFFFF;
 
 .team-img {
 }
-/* .team-titles {
-color:#2E2F42;
-text-align: center;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.20; 
-letter-spacing: 0.02em;
-background-color: #FFFFFF;
-} 
-*/
 
 .modifier {
 	text-align: center;
@@ -220,21 +202,6 @@ background-color: #FFFFFF;
 }
 .Portfolio-img {
 }
-/* .Portfolio-titles {
-color:#2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.20;
-letter-spacing: 0.02em;
-} */
-
-/* .Portfolio-text {
-color:#434455;
-font-size: 16px;
-font-weight: 400;
-line-height: 1.50;
-letter-spacing: 0.02em;
-} */
 
 /* ---------------------------------------------------------- */
 
