@@ -138,11 +138,11 @@ background:#404BBF;
 .priorities {
 }
 
-.visually-hidden {
+/* .visually-hidden {
 	white-space: nowrap;
 	clip-path: inset(100%);
 	overflow: hidden;
-}
+} */
 
 .priorities-list {
 }
